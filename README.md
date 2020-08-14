@@ -1,13 +1,17 @@
 # CMPT353FinalProject
-# Author: Yiran Zhang (301323671) yza363@sfu.ca  - grant branch 
-# 		  Wei Yao(301256560) yaoweiy@sfu.ca - gigs branch
-# Enviornment : linux, python 3.7.7 , anaconda3
+### Author : 
+Yiran Zhang (301323671) yza363@sfu.ca
 
-1)
+Wei Yao(301256560) yaoweiy@sfu.ca
+### Enviornment : 
+linux, python 3.7.7 , anaconda3
+
+### Instructions :
+1
 For all ipynb file , we run them on Jupiter. 
 Simply restart the kernel and re-run the whole notebook.
 
-2) 
+2 
 For tweet_extracter.py , you may need to
 i) change the output path at line 89 by replace my path in the first quote by yours : f = open("/Users/mozzie/Desktop/353fp/cmpt353finalproject/D2.txt ", "a+")
 ii) cd into your directory , use command
@@ -16,6 +20,10 @@ then you can run by command
 $python tweet_extracter.py
 or
 $python3 tweet_extractor.py
+
+3 
+If you can't run some sections of the entire bootbook named final_project_submission.ipynb ,
+check our seperated nootebooks 353_gigas.ipynb  and 353_grant.ipynb
 
 //Use your own key for API if you have one at line 9-12
 //Don't spread out mine although it can't even exchange for a candy :) 
