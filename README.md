@@ -1,8 +1,8 @@
 # CMPT353FinalProject
 ### Author : 
-Yiran Zhang (301323671) yza363@sfu.ca
 
-Wei Yao(301256560) yaoweiy@sfu.ca
+
+
 ### Enviornment : 
 linux, python 3.7.7 , anaconda3
 
